@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fa2c62f3-458b-4858-8847-4087467f821c">
+  <producedTypes>
+    <objectType typeId="08b44c2a-ebeb-4062-8ada-8eff1d10cf18" valueTypeId="62ae5bc5-75a1-4b8e-9f69-3f3ffd09b6f7"/>
+    <managerType typeId="b58333d2-2d69-4898-b3d4-ef92b70edc8d" valueTypeId="e056e23b-0eff-44ae-8f79-c6e74a8d9822"/>
+  </producedTypes>
+  <name>AviasalesRRD_Обработка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработка</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>
